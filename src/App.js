@@ -5,7 +5,6 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>When's the next Marvel film?</h1>
       <Movie />
     </div>
   );
